@@ -25,12 +25,14 @@ Ensure you have the following installed on your system:
 
 ### Backend Setup
 
+
 1. Run the backend server:
-   ```
+   ```sh
    python server.py
    ```
 
 ### Frontend Setup
+
 
 1. Install dependencies:
    ```
@@ -40,6 +42,17 @@ Ensure you have the following installed on your system:
    ```
    npm run dev
    ```
+
+## Login Credentials
+
+The application has predefined login credentials. Some example credentials include:
+
+- **John**: `john@2006`
+- **George**: `george#123`
+- **Michael**: `michael@2021`
+- **David**: `david@9876`
+
+You can access the full list of credentials in the `server.py` file.
 
 ## Hosting Over a Network
 
@@ -61,8 +74,11 @@ Feel free to fork this repository and submit pull requests to improve the projec
 
 ## License
 
+
+
 This project is licensed under the MIT License.
 
 ---
 
 Enjoy the quiz and have fun learning!
+
